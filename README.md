@@ -10,6 +10,7 @@ At this point we are able to cross the information provided by the music reprodu
 
 To set up dj less.v0.0 please 
 
+
 1) download:
 
 SQL DB_TABLE.py
@@ -25,6 +26,9 @@ https://drive.google.com/file/d/1IJFRLDy4gP74rnNfZikbmbaW7OWu7t6D/view?usp=shari
     passwd="1234"
 
 3) move everything to the same folder
+5) Install packages 
+            pip install cvlib
+            pip install cvlib
 4) Run SQL DB_TABLE.py
 4) Run djless_main.py
     
@@ -40,6 +44,13 @@ To continue the development of the program and get a minimum viable product (MVP
 *Song selection algorithm could be made using the same dataset and algorithm in the image recognition module in use (cvlib)
 
 
+
+
+
+
+You can find everything about the Computer Vision library (cvlib) here,
+https://github.com/arunponnusamy/cvlib
+I don't own anyrights of this library, all the credit for it goes for the creator. 
 
 
 
